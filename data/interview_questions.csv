@@ -1,0 +1,5 @@
+role,question,difficulty,category
+ML Engineer,Explain transformers architecture.,Hard,NLP
+Data Scientist,What is bias variance tradeoff?,Medium,ML
+AI Engineer,How does RAG work?,Hard,LLM
+Backend Engineer,Explain microservices architecture.,Medium,System Design
